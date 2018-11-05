@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="JAVA_LIBS/commons-math-1.1.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/commons-primitives-1.0.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/distributions.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/java-getopt-1.0.13.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/jnt.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/mtj.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/RngPack.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/batik/batik-awt-util.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/batik/batik-dom.jar"/>
+	<classpathentry kind="var" path="JAVA_LIBS/batik/batik-svggen.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
